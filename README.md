@@ -1,1 +1,1 @@
-https://synevo-laboratory-covid-pcr-test.github.io/pcr-test/
+https://synevo-laboratory-covid19.github.io/pcr-test/
