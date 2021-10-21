@@ -1,4 +1,1 @@
-# Homepage
-My very own personal website. Basically this is just a résumé.
-
-🧙Hocus-pocus
+https://synevo-laboratory-covid-pcr-test.github.io/pcr-test/
